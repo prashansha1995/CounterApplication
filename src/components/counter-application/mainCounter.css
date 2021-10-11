@@ -1,0 +1,12 @@
+.float-child {
+    width: 10%;
+    float: left;
+    padding: 1px;
+}
+
+.float-down {
+    width: 20%;
+    float: down;
+    padding: 5px;
+}
+
